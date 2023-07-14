@@ -1,2 +1,2 @@
 # Supernmarket-info-page
-A Webpage for a Supermarket
+A Website for a Supermarket using HTML, CSS from Bootstrap.
